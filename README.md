@@ -21,6 +21,10 @@ Finally, the same cameras that provide information on the vacancy of each lot, r
 
 Prototype of how a ParkThere parking lot will look like. Display mounted to the ceiling will indicate the current price per hour of the parking lot. Encouraging drivers to park further away from high traffic areas. Price of the display can be easily changed by the building management dynamically, depending on the current situation in the carpark. The lower priced parking lots can be adjusted to encourage drivers to park at available locations rather than the most convenient ones.
 
+
+
+The prototype runs on an ESP32, which will enable ParkThere to be controlled over-the-air via the internet in future improvements.
+
 ![](media/1.jpg)
 
 
